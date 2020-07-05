@@ -1,5 +1,5 @@
 {
-  "name": "@your-project/package",
+  "name": "package",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Ahmet Atasoy <menthena@gmail.com>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/menthena/nexus-repo/issues"
   },
-  "gitHead": "010ba5a9fbdca1d4cca0cadbc3eba303cc0c6843"
+  "gitHead": "fb3a2c28449ec7d8f96e3e5604eea233b41909e8"
 }
