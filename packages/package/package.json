@@ -1,7 +1,7 @@
 {
   "name": "@your-project/package",
   "version": "1.0.9",
-  "description": "> TODO: decriptin",
+  "description": "> TODO: decrptin",
   "author": "Ahmet Atasoy <menthena@gmail.com>",
   "homepage": "https://github.com/menthena/nexus-repo#readme",
   "license": "ISC",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/menthena/nexus-repo/issues"
   },
-  "gitHead": "f64d395d488148f3987ce9ef34c1d3fd03db6f3f"
+  "gitHead": "47ad64c40b12f9574f7b002536279446e1a2969f"
 }
