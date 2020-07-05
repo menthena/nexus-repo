@@ -1,7 +1,7 @@
 {
   "name": "@your-project/package",
-  "version": "1.0.7",
-  "description": "> TODO: description",
+  "version": "1.0.8",
+  "description": "> TODO: decription",
   "author": "Ahmet Atasoy <menthena@gmail.com>",
   "homepage": "https://github.com/menthena/nexus-repo#readme",
   "license": "ISC",
