@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://ec2-3-8-20-173.eu-west-2.compute.amazonaws.com:8081/repository/nexus-npm/"
+    "registry": "http://ec2-3-8-20-173.eu-west-2.compute.amazonaws.com:8081/repository/npm-hosted/"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/menthena/nexus-repo/issues"
   },
-  "gitHead": "974e394aa698f5ef69009077be9786bce972ffa7"
+  "gitHead": "408b8f2b40c3795830e7126ec94f1f0867255a51"
 }
