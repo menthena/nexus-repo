@@ -1,0 +1,16 @@
+{
+  "packages": ["packages/*"],
+  "version": "0.0.0",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "command": {
+    "add": {
+      "exact": true
+    },
+    "version": {
+      "exact": true,
+      "ignoreChanges": [],
+      "registry": "http://ec2-3-8-20-173.eu-west-2.compute.amazonaws.com:8081/repository/npm-hosted/"
+    }
+  }
+}
